@@ -10,6 +10,8 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 [Flow](https://developer.android.com/kotlin/flow),
 and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/).
 
+extended version of inventory app from google codelabs with added features.
+
 Pre-requisites
 --------------
 
