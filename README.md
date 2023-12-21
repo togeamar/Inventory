@@ -17,13 +17,12 @@ Pre-requisites
 
 You need to know:
 - How to create and use composables.
+
 - How to navigate between composables, and pass data between them.
 - How to use architecture components including ViewModel, Flow, StateFlow and StateUi.
 - How to use coroutines for long-running tasks.
 - SQLite database and the SQLite query language
 
 
-Getting Started
----------------
+https://github.com/togeamar/Inventory/assets/80570911/6b2386c4-7d7b-4885-bd56-5288808e0045
 
-1. Download and run the app.
